@@ -1,5 +1,5 @@
 # Advanced IP Logging System
-A brand new IP logging system, built for Discord's webhook software, custom coded for usage for anyone.
+A brand new IP logging system, built for Discord's webhooks, custom coded for usage for anyone.
 
 # Usage
 1. Download the "Index.php" file in Releases.
